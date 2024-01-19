@@ -1,7 +1,7 @@
 - 👋 Hi, I’m FrazE
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, C++, C#, HTML
-- 📫 How to reach me: Discord: fraze._. Telegram: @fraze1337
+- 📫 How to reach me: Discord: fraze._.
 - 😄 Pronouns: He/him
 
 <!---
